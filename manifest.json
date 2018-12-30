@@ -1,0 +1,35 @@
+ {
+    "name": "Sensinfor",
+    "description" : "Sensinfo Finder, Update by passer6y",
+    "version": "2.0",
+    "manifest_version": 2,
+    "permissions": [
+        "contextMenus",
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+    ],
+    "background": {
+        "scripts": [
+            "background.js",
+            "jquery-1.7.2.min.js"
+        ]
+    },
+     "browser_action": {
+         "default_icon": {
+             "16": "img/16.png",
+             "32": "img/32.png",
+             "48": "img/48.png",
+             "64": "img/64.png",
+             "128": "img/128.png"
+         }
+     },
+     "icons":
+     {
+         "16": "img/16.png",
+         "32": "img/32.png",
+         "48": "img/48.png",
+         "64": "img/64.png",
+         "128": "img/128.png"
+     }
+ }
