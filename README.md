@@ -3,7 +3,7 @@
 参考donot师傅改写：https://github.com/donot-wong/sensinfor
 
 安装后，可以在页面右击，选择启用或关闭
-!()[https://i.loli.net/2018/12/30/5c28d0bf71adf.png]
+![](https://i.loli.net/2018/12/30/5c28d0bf71adf.png)
 
 改进：
 1. 扩充了扫描字典
